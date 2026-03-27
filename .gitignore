@@ -358,3 +358,5 @@ __pycache__/
 # !tools/packages.config
 
 !buildTools
+
+!.woodpecker
